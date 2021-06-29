@@ -347,3 +347,5 @@ app  = tkinter.Tk()
 app.title('Minesweeper (地雷数:' + str(MINE_NUM) +')')
 game = MineSweeper(app)
 app.mainloop()
+
+# test ?
